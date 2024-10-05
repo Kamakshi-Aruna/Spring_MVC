@@ -1,0 +1,5 @@
+config\MongoConfig.class
+controller\studentController.class
+model\Student.class
+repository\studentRepository.class
+service\studentService.class
